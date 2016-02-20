@@ -1,24 +1,27 @@
 # basic
-title: 追客
-subtitle: 热爱生活，热爱编程，Web前端见习魔法师
+title: Rust 中文社区
+subtitle: Rust 编程语言中文社区，国内最活跃、资源最集中的 Rust 技术社区
 favicon: favicon.ico
 avatar: images/avatar.png
 
 # disqus
-disqus_shortname: drakeleung
+# disqus_shortname: rustchina
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/RustChina
+  twitter: https://twitter.com/rustlang
+  weibo: http://weibo.com/RustChina
 
 # nav #
 nav:
   home: .
   archive: archives
-  about: about
+  chat: https://chat.rust-china.org
+  wiki: https://wiki.rust-china.org
+  translation: translation
   rss: atom.xml
+  about: about
 
 # heox-renderre-sass
 node_sass:
