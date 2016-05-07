@@ -19,6 +19,7 @@ nav:
   archive: archives
   chat: https://chat.rust-china.org
   wiki: https://wiki.rust-china.org
+  RustPrimer: rustprimer
   translation: translation
   rss: atom.xml
   about: about
